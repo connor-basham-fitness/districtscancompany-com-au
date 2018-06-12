@@ -1,0 +1,16 @@
+# Jekyll configuration
+
+name: districtscancompany-com-au
+description: District Scan Company website
+author:
+  name: Mike Causer
+  email: mcauser@gmail.com
+
+url: http://connor-basham-fitness.github.io/districtscancompany-com-au
+
+exclude: [".ruby-version", "Gemfile", "Gemfile.lock", "README.md"]
+
+sass:
+  style: compressed
+
+encoding: utf-8
